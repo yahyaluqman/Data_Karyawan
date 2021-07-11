@@ -56,15 +56,15 @@
                     <input type="text" class="form-control" id="nama" placeholder="Masukkan Nama Karyawan" name="nama" value="<?php echo $data['nama']; ?>">
                 </div>
                 <div class="mb-3">
-                    <label for="nim" class="form-label">No.KTP</label>
+                    <label for="ktp" class="form-label">No.KTP</label>
                     <input type="text" class="form-control" id="ktp" placeholder="Masukkan No.KTP Karyawan" name="ktp" value="<?php echo $data['ktp']; ?>">
                 </div>
                 <div class="mb-3">
-                    <label for="alamat" class="form-label">No.Telp</label>
+                    <label for="telpon" class="form-label">No.Telp</label>
                     <input type="text" class="form-control" id="telpon" placeholder="Masukkan No.Telp Karyawan" name="telpon" value="<?php echo $data['telpon']; ?>">
                 </div>
                 <div class="mb-3">
-                    <label for="alamat" class="form-label">tahun masuk</label>
+                    <label for="tahun" class="form-label">tahun masuk</label>
                     <input type="date" class="form-control" id="tahun" placeholder="Masukkan tahun masuk Karyawan" name="tahun" value="<?php echo $data['tahun']; ?>">
                 </div>
                 <button type="submit" class="btn btn-primary" value="simpan">Update</button>

@@ -49,17 +49,17 @@
                             </div>
                             <!-- Input No.KTP -->
                             <div class="mb-3">
-                                <label for="NIM" class="form-label">No.KTP</label>
+                                <label for="ktp" class="form-label">No.KTP</label>
                                 <input type="text" class="form-control" id="ktp" placeholder="Masukkan No.KTP Karyawan" name="ktp" required>
                             </div>
                             <!-- Input No.Telpon -->
                             <div class="mb-3">
-                                <label for="Alamat" class="form-label">No.Telp</label>
+                                <label for="telpon" class="form-label">No.Telp</label>
                                 <input type="text" class="form-control" id="telpon" placeholder="Masukkan No.Telp Karyawan" name="telpon" required>
                             </div>
                             <!-- Input tahun masuk -->
                             <div class="mb-3">
-                                <label for="Alamat" class="form-label">tahun masuk</label>
+                                <label for="tahun" class="form-label">tahun masuk</label>
                                 <input type="date" class="form-control" id="tahun" placeholder="Masukkan tahun masuk Karyawan" name="tahun" required>
                             </div>
                         </div>
